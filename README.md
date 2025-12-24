@@ -23,7 +23,7 @@ A Verilog testbench is included to verify correct selection for all input combin
 
 ## 🛠 Tools Used
 - Verilog HDL
-- EDA Playground / ModelSim / Vivado
+- VS Code / GTKWave / Vivado
 
 ## 📁 Files
 - `4x1_mux.v` – RTL design
